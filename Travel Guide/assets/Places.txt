@@ -1,0 +1,89 @@
+Agra_Uttar Pradesh
+Ahmedabad_Gujrat
+Alappuzha_Kerala
+Allahabad_Uttar Pradesh
+Amritsar_Punjab
+Aurangabad_Maharashtra
+Badami_Karnataka
+Badrinath_Uttar Pradesh
+Bandhavgarh_Madhya Pradesh
+Bangalore_Karnataka
+Bharatpur_Rajsthan
+Bhavnagar_Gujrat
+Bhopal_Madhya Pradesh
+Bhubaneshwar_Orissa
+Bhuj_Gujrat
+Bijaipur_Rajsthan
+Bijapur_Karnataka
+Bikaner_Rajsthan
+Chandigarh_Punjab
+Chennai_Tamil Nadu
+Chidambaram_Tamil Nadu
+Chitrakoot_Uttar Pradesh
+Cochin_Kerala
+Coimbatore_Tamil Nadu
+Corbett_Uttaranchal
+Dalhousie_Uttaranchal
+Darjeeling_West Bengal
+Dehradoon_Uttaranchal
+Delhi_Delhi
+Deogarh_Rajsthan
+Dharmashala_Himachal Pradesh
+Diu_Gujrat
+Gangotri_Uttaranchal
+Gangtok_Sikkim
+Goa_Goa
+Gwalior_Madhya Pradesh
+Haridwar_Uttaranchal
+Hassan_Karnataka
+Hospet_Karnataka
+Hyderabad_Andhra Pradesh
+Indore_Madhya Pradesh
+Jabalpur_Madhya Pradesh
+Jaipur_Rajsthan
+Jaisalmer_Rajsthan
+Jodhpur_Rajsthan
+Kalimpong_West Bengal
+Kanha_Madhya Pradesh
+Khajuraho_Madhya Pradesh
+Kodagu_Karnataka
+Kodaikanal_Tamil Nadu
+Kolkata_West Bengal
+Kota_Rajsthan
+Kottayam_Kerala
+Kozhikode_Kerala
+Lakshadweep_Lakshadweep
+Leh_Jammu and Kashmir
+Lucknow_Uttar Pradesh
+Madurai_Tamil Nadu
+Mahabalipuram_Tamil Nadu
+Manali_Himachal Pradesh
+Mandu_Madhya Pradesh
+MountAbu_Rajsthan
+Mumbai_Maharashtra
+Munnar_Kerala
+Mysore_Karnataka
+Nagarhole_Karnataka
+Nainital_Uttaranchal
+Ooty_Tamil Nadu
+Patna_Bihar
+Pemayangtse_Sikkim
+Pondicherry_Pondicherry
+PortBlair_Andaman & Nicobar
+Pune_Maharashtra
+Puri_Orissa
+Pushkar_Rajsthan
+Ranthambore_Rajsthan
+Sariska_Rajsthan
+SasanGir_Gujrat
+Shekhawati_Rajsthan
+Shimla_Himachal Pradesh
+Sunderban_West Bengal
+Tanjore_Tamil Nadu
+Thekkady_Kerala
+Tirupati_Andhra Pradesh
+Trivandrum_Kerala
+Udaipur_Rajsthan
+Vadodara_Gujrat
+Varanasi_Uttar Pradesh
+Yamunotri_Uttaranchal
